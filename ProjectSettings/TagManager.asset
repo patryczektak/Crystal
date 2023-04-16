@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - CinemachineTarget
+  - Red
+  - Green
+  - Blue
+  - Portal
+  - Ground
+  - Fan
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - whatIsGround
+  - 
+  - Character
+  - Ground
+  - StencilLayer_1
+  - StencilLayer_2
+  - StencilLayer_3
+  - StencilLayer_4
+  - Red
+  - Green
+  - Blue
+  - RG
+  - GB
+  - BR
+  - Movable
+  - Portal
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
